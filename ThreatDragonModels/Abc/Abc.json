@@ -9,8 +9,8 @@
     "diagrams": [
       {
         "title": "Test",
-        "thumbnail": "./public/content/images/thumbnail.linddun.jpg",
-        "diagramType": "LINDDUN",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
         "id": 0,
         "diagramJson": {
           "cells": [
@@ -131,10 +131,6 @@
                 {
                   "x": 280,
                   "y": 260
-                },
-                {
-                  "x": 270,
-                  "y": 140
                 },
                 {
                   "x": 290,
