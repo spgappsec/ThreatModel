@@ -12,7 +12,14 @@
         "name": "Vikash Kumar"
       }
     ],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "title": "test1",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 0
+      }
+    ],
     "reviewer": ""
   }
 }
