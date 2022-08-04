@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "title": "Abc",
+    "owner": "Me",
+    "description": "Yes"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Test",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 0
+      }
+    ],
+    "reviewer": "NotMe"
+  }
+}
